@@ -1,0 +1,14 @@
+@import '~@angular/material/theming';
+@include mat-core();
+
+$tylla-theme-primary: mat-palette($mat-indigo);
+$tylla-theme-accent: mat-palette($mat-blue);
+$tylla-theme-warn: mat-palette($mat-red);
+
+$tylla-theme: mat-dark-theme(
+  $tylla-theme-primary,
+  $tylla-theme-accent,
+  $tylla-theme-warn
+);
+
+@include angular-material-theme($tylla-theme);
