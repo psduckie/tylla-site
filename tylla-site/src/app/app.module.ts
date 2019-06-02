@@ -7,13 +7,11 @@ import { MatButtonModule } from '@angular/material/button';
 
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { ContentParserComponent } from './content-parser/content-parser.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent,
-    ContentParserComponent
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
