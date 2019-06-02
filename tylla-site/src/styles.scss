@@ -1,2 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 @import "assets/styles/tyllatheme.scss";
+
+body {
+  background-color: midnightblue;
+  color: yellow;
+}
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: greenyellow;
+}
+
+a:active {
+  color: cyan;
+}
+
+a.navbarlink {
+  color: white;
+}
