@@ -1,6 +1,4 @@
 import { Component, HostListener, OnInit } from '@angular/core';
-import { MarkdownService } from 'ngx-markdown';
-import { stringify } from 'querystring';
 
 @Component({
   selector: 'app-root',
