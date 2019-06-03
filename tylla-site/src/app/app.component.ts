@@ -19,7 +19,7 @@ export class AppComponent implements OnInit {
   }
 
   setMarkdown(file: string) {
-    const path = 'raw-loader!./assets/markdown/' + file;
-    this.markdown = require(path);
+    const path = './assets/markdown/' + file;
+    this.markdown = path;
   }
 }
