@@ -10,6 +10,7 @@ export class NavbarComponent {
   selected = new EventEmitter<string>();
 
   selectPage(selectedPage: string) {
+    console.log('Emitting ' + selectedPage);
     this.selected.emit(selectedPage);
   }
 }

@@ -1,14 +1,14 @@
 # The Darkdusk Legacy - Generation 1 Rolls and Traits
-###### *October 28, 2012*
+### *October 28, 2012*
 
 I’m starting generation 1 midway through the teen stage; however, subsequent generations will start at YA as normal.  Anyway, the rolls for the first generation are:
 
-**Family Structure:** Couple
-**Number of Children:** Four
-**Primary Income:** Fortune Teller (Mystic)
-**Secondary Income:** Acrobat
-**Generation Goal:** AWESOME!
-**Miscellaneous Fun:** Hands Off
++ **Family Structure:** Couple
++ **Number of Children:** Four
++ **Primary Income:** Fortune Teller (Mystic)
++ **Secondary Income:** Acrobat
++ **Generation Goal:** AWESOME!
++ **Miscellaneous Fun:** Hands Off
 
 The couple, of course, is Kelly and Cyrus.  Kelly is going to get the Fortune Teller job, and Cyrus is going to get the Acrobat job.
 
