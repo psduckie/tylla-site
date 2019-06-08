@@ -1,7 +1,7 @@
 # The Darkdusk Legacy – Prologue
 ### October 25, 2012
 
-<span style="color:red">NOTE: This takes place before the challenge begins, and in a different town.</span>
+<div class="alert">NOTE: This takes place before the challenge begins, and in a different town.</div>
 
 The Realm of Night is a dark place, ruled by Vampire noble houses.  One of the strongest of those houses is the Sorenson house.
 
