@@ -6,9 +6,6 @@ import { Component, HostListener, OnInit } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  // Site title.  Will be deleted once the markdown is coded in.
-  title = 'Tyll\'a\'s Website';
-
   // Markdown variable.
   markdown;
 
@@ -18,6 +15,7 @@ export class AppComponent implements OnInit {
 
   setMarkdown(file: string) {
     const path = './assets/markdown/' + file;
+    console.log('Loading ' + path);
     this.markdown = path;
   }
 }

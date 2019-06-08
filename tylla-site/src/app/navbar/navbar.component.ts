@@ -1,15 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-navbar',
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.scss']
 })
-export class NavbarComponent implements OnInit {
+export class NavbarComponent {
+  @Output()
+  selected = new EventEmitter<string>();
 
-  constructor() { }
-
-  ngOnInit() {
+  selectPage(selectedPage: string) {
+    console.log('Emitting ' + selectedPage);
+    this.selected.emit(selectedPage);
   }
-
 }
