@@ -1,5 +1,4 @@
 # The Darkdusk Legacy - Generation 1 Rolls and Traits
-### *October 28, 2012*
 
 I’m starting generation 1 midway through the teen stage; however, subsequent generations will start at YA as normal.  Anyway, the rolls for the first generation are:
 
