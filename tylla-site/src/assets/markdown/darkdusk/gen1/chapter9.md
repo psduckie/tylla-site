@@ -3,7 +3,7 @@
 
 Kelly starts to teach Maya the ways of the Vampire. Maya is a quick learner.
 
-<img src="/assets/images/gamepics/darkdusk/chapter9/Maya learns how to talk.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter9/Maya learns how to talk.png">
 
 The next day, Kelly and Cari get ready to cross over to the Realm of Night.
 
@@ -11,7 +11,7 @@ The next day, Kelly and Cari get ready to cross over to the Realm of Night.
 
 And, with Cari’s expertise, they cross over safely. The two land near a house in a dark corner of the Realm of Night.
 
-<img src="/assets/images/gamepics/darkdusk/chapter9/A safe landing.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter9/A safe landing.png">
 
 [Kelly] “We made it…”  
 [Cari] “Something’s not right, though. The Realm is deteriorating.”  
@@ -19,7 +19,7 @@ And, with Cari’s expertise, they cross over safely. The two land near a house 
 
 As the duo travel closer and closer to the Sorenson mansion, the signs of the Realm’s deterioration get worse and worse. Finally they make it there, to be greeted by a young Human man.
 
-<img src="/assets/images/gamepics/darkdusk/chapter9/Cari's son.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter9/Cari's son.png">
 
 [???] “Mother? Is that you?”  
 [Cari] “Yes, it’s me. I’ve come to get you out of here.”  
@@ -32,13 +32,13 @@ Before he can finish the sentence, Donna Sorenson comes out to see what’s goin
 
 Within seconds, Donna Sorenson is dead.
 
-<img src="/assets/images/gamepics/darkdusk/chapter9/Donna's death.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter9/Donna's death.png">
 
 [Desirae] “Dear sister, thank you so much for aiding me in my ascension. Allow me to repay you.”  
 [Cari (whispering to Kelly)] “Quick…let’s find him and leave!”  
 [Kelly (whispering to Cari)] “Right!”
 
-<img src="/assets/images/gamepics/darkdusk/chapter9/A second death.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter9/A second death.png">
 
 [Cari] “We’re too late. I can sense it…he’s…dead.”  
 [Kelly] “We’d better get out of here! Desirae will kill us next!”

@@ -7,11 +7,11 @@ Kelly realizes that she has no clue what a plasma fruit plant needs to grow – 
 
 Cyrus resolves to rob the grocery store himself, but since The Great Darkness has a performance that night, the robbery will have to wait.  He satisfies himself with a pack of plasma juice.
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Cyrus drinking juice.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Cyrus drinking juice.png">
 
 While The Great Darkness is performing, Kelly goes to the local potion shop.  There, she finds a book full of potion recipes.  She starts reading…
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Kelly reading massive alchemy book.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Kelly reading massive alchemy book.png">
 
 …and keeps reading until the night is almost over.  Meanwhile, The Great Darkness gets the opportunity he had been hoping for – a weekly performance gig!
 
@@ -23,11 +23,11 @@ After coming home from work, Kelly and Cyrus celebrate.  After the celebration, 
 
 [Cyrus] “That was easy!”
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Impromptu performance.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Impromptu performance.png">
 
 After using his celebrity status to get free food, The Great Darkness decides to do an impromptu performance at the park.  It’s a hit!
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Kelly catching bugs.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Kelly catching bugs.png">
 
 Kelly, having heard that the local science lab is paying for insects, decides to catch a few.  After she finishes selling them, she notices she’s low on food…time to go grocery “shopping!”
 
@@ -35,7 +35,7 @@ Kelly, having heard that the local science lab is paying for insects, decides to
 [Kelly] “Yes, it’s me.  Now give me the plasma fruit and no one gets bitten.” *shows teeth*  
 [Cashier] “Fine, fine!  Take the fruit!”
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Kelly and Cyrus embracing.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Kelly and Cyrus embracing.png">
 
 Kelly and Cyrus embrace before they go to sleep.
 
@@ -47,7 +47,7 @@ Kelly and Cyrus embrace before they go to sleep.
 
 Back in the Realm of Dusk, Kelly braves the sun to plant some alchemical ingredients, fertilizing them with some of her plasma fruits.
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Kelly planting.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Kelly planting.png">
 
 The next night, Cyrus goes to the grocery store before the park performance he has taken to doing every night.
 
@@ -60,7 +60,7 @@ Cyrus says nothing about telling Kelly to stop robbing the store.   He also says
 
 From the beginning, cleaning was something Kelly hated to do.  Now, she knows a way to make parts of the house clean themselves!  She starts with the shower, because that’s the most annoying thing to clean; her plan is to then move on to the toilet, sinks and stove, in that order.  Luckily for Cyrus, she finishes the shower upgrade just as he comes home needing to use the shower!  Because she doesn’t want to upgrade the toilet while Cyrus is in the shower (she needs to keep up some Realm of Dusk standards of decency), she goes for the kitchen sink.
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Kelly upgrading the kitchen sink.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Kelly upgrading the kitchen sink.png">
 
 As Kelly sleeps that morning, Cyrus tries to do the laundry and breaks the washer.  He’s too tired to fix it, however, and the broken thing leaks dirty water all over the floor.  When he gets up, he sees the flood and fixes the machine.
 
@@ -76,7 +76,7 @@ By the time the police make it to the grocery store, Kelly is long gone.
 
 Later that night, Kelly and Cyrus attend a party that one of Cyrus’ fans is throwing.  The two Darkdusks mingle with the locals and then begin to dance.
 
-<img src="/assets/images/gamepics/darkdusk/chapter4/Kelly and Cyrus dancing.png">
+<img src="/assets/images/gamepics/darkdusk/gen1/chapter4/Kelly and Cyrus dancing.png">
 
 <div class="darkdusk_night">As Kelly and Cyrus dance in the Realm of Dusk, Desirae walks up to the Barrier separating her Realm of Night from the Realm of Dusk.  She has the alchemical mixture in hand.
 

@@ -17,19 +17,28 @@
 </mat-menu>
 
 <mat-menu #darkdusk="matMenu">
-  <button mat-menu-item (click)="selectPage('darkdusk/rollsandtraits.md')">Rolls and Traits</button>
+  <button mat-menu-item [matMenuTriggerFor]="darkduskrolls">Rolls and Traits</button>
   <a mat-menu-item href="https://youtu.be/EUncoEepY0Y" class="navbarlink">Video Lore Drop: Piercing of the Barriers (on YouTube)</a>
-  <button mat-menu-item (click)="selectPage('darkdusk/prologue.md')">Prologue</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter1.md')">Chapter 1: Reality Check</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter2.md')">Chapter 2: Completed Development</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter3.md')">Chapter 3: Start of the Plan</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter4.md')">Chapter 4: Return of the Night</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter5.md')">Chapter 5: A Change and a Child</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter6.md')">Chapter 6: Growth and Development</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter7.md')">Chapter 7: Two Daughters and a Sun</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter8.md')">Chapter 8: The Sorenson Agent Revealed</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/chapter9.md')">Chapter 9: Sorenson’s Fall</button>
-  <button mat-menu-item (click)="selectPage('darkdusk/finale.md')">Finale: Catastrophe</button>
+  <button mat-menu-item [matMenuTriggerFor]="darkduskgen1">Generation 1</button>
+</mat-menu>
+
+<mat-menu #darkduskrolls="matMenu">
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/rollsandtraits.md')">Generation 1</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen2/rollsandtraits.md')">Generation 2</button>
+</mat-menu>
+
+<mat-menu #darkduskgen1="matMenu">
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/prologue.md')">Prologue</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter1.md')">Chapter 1: Reality Check</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter2.md')">Chapter 2: Completed Development</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter3.md')">Chapter 3: Start of the Plan</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter4.md')">Chapter 4: Return of the Night</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter5.md')">Chapter 5: A Change and a Child</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter6.md')">Chapter 6: Growth and Development</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter7.md')">Chapter 7: Two Daughters and a Sun</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter8.md')">Chapter 8: The Sorenson Agent Revealed</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/chapter9.md')">Chapter 9: Sorenson’s Fall</button>
+  <button mat-menu-item (click)="selectPage('darkdusk/gen1/finale.md')">Finale: Catastrophe</button>
 </mat-menu>
 
 <mat-menu #nightmagic="matMenu">
