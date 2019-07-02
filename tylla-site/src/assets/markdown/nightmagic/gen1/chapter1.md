@@ -1,7 +1,7 @@
 # The Nightmagic Legacy – Chapter 1: 81 Claddagh Court
 ### December 2, 2013
 
-<img src="/assets/images/gamepics/nightmagic/chapter1/Duncan enters graveyard.png">
+<img src="/assets/images/gamepics/nightmagic/gen1/chapter1/Duncan enters graveyard.png">
 
 As I entered the graveyard (fresh air, at last!) I heard a voice calling out. It definitely wasn’t one of the vampires; I knew those voices too well. I looked towards the voice and saw an old man tending the graveyard.
 
@@ -31,11 +31,11 @@ I realized the town I once knew was gone. And my face showed it.
 
 I walked across town to the address that Dampe had mentioned and found the abandoned house. It was old, all right. Old and a complete mess. At least it was better than that vampire cave.
 
-<img src="/assets/images/gamepics/nightmagic/chapter1/The abandoned house.png">
+<img src="/assets/images/gamepics/nightmagic/gen1/chapter1/The abandoned house.png">
 
 Man, it was nice to sleep in a real bed.
 
-<img src="/assets/images/gamepics/nightmagic/chapter1/Duncan in bed.png">
+<img src="/assets/images/gamepics/nightmagic/gen1/chapter1/Duncan in bed.png">
 
 The next day, I went to the school to register as a student. They immediately had a class for me to join! I got to meet some of the other students, but I was mostly focused on my studies and my job at the graveyard. One of my classmates was a really hot girl…her name was Sophie.
 
