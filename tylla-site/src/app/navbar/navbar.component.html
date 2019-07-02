@@ -18,7 +18,7 @@
 
 <mat-menu #darkdusk="matMenu">
   <button mat-menu-item [matMenuTriggerFor]="darkduskrolls">Rolls and Traits</button>
-  <a mat-menu-item href="https://youtu.be/EUncoEepY0Y" class="navbarlink">Piercing of the Barriers (on YouTube)</a>
+  <a mat-menu-item href="https://youtu.be/EUncoEepY0Y" class="navbarlink">Video: Piercing of the Barriers</a>
   <button mat-menu-item [matMenuTriggerFor]="darkduskgen1">Generation 1</button>
 </mat-menu>
 
@@ -42,16 +42,25 @@
 </mat-menu>
 
 <mat-menu #nightmagic="matMenu">
-  <button mat-menu-item (click)="selectPage('nightmagic/gen1/rollsandtraits.md')">Rolls and Traits</button>
+  <button mat-menu-item [matMenuTriggerFor]="nightmagicrolls">Rolls and Traits</button>
+  <button mat-menu-item [matMenuTriggerFor]="nightmagicgen1">Generation 1</button>
+</mat-menu>
+
+<mat-menu #nightmagicrolls="matMenu">
+  <button mat-menu-item (click)="selectPage('nightmagic/gen1/rollsandtraits.md')">Generation 1</button>
+  <button mat-menu-item>Generation 2</button>
+</mat-menu>
+
+<mat-menu #nightmagicgen1="matMenu">
   <button mat-menu-item (click)="selectPage('nightmagic/gen1/prologue.md')">Prologue: Freedom</button>
   <button mat-menu-item (click)="selectPage('nightmagic/gen1/chapter1.md')">Chapter 1: 81 Claddagh Court</button>
   <button mat-menu-item>Chapter 2: Sophie</button>
   <button mat-menu-item>Chapter 3: Maintaining the Ward</button>
   <button mat-menu-item>Chapter 4: Warden</button>
   <button mat-menu-item>Chapter 5: Tyla</button>
-  <button mat-menu-item>Bonus Chapter: How Tyla Met Duncan</button>
+  <button mat-menu-item>Bonus: How Tyla Met Duncan</button>
   <button mat-menu-item>Chapter 6: Tragedy and a Toddler</button>
-  <a mat-menu-item href="https://youtu.be/z9ELas5_Dg8" class="navbarlink">Video Bonus Chapter: Who Killed Tyla? (on YouTube)</a>
+  <a mat-menu-item href="https://youtu.be/z9ELas5_Dg8" class="navbarlink">Video: Who Killed Tyla?</a>
   <button mat-menu-item>Chapter 7: Enter the Villains</button>
   <button mat-menu-item>Chapter 8: They All Grow Up</button>
   <button mat-menu-item>Chapter 9: He’s Real!</button>
