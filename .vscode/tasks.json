@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build React Project (Dev)",
+            "type": "shell",
+            "command": "npm start",
+            "group": "build",
+            "options": {
+                "cwd": "${workspaceFolder}/tylla-site"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
