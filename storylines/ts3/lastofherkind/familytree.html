@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <title>Tyll'a's Sims 3 Storylines</title>
+    <title>Last of Her Kind - Family Tree</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -16,19 +16,19 @@
       $(document).ready(function() {
         $("#navbar").load("/navbar.html");
         $("#gamesbar").load("/storylines/gamesbar.html");
+        $("#ts3bar").load("/storylines/ts3/ts3bar.html");
       });
     </script>
   </head>
   <body>
     <div id="navbar"></div>
     <div id="gamesbar"></div>
-    <h1 class="display-1">Tyll'a's Sims 3 Storylines</h1>
-    <h1 class="display-4">
-      <a href="/storylines/ts3/darkdusk/toc.html">The Darkdusk Legacy</a>
-    </h1>
-    <h1 class="display-4">
-      <a href="/storylines/ts3/nightmagic/toc.html">The Nightmagic Legacy</a>
-    </h1>
-    <h1 class="display-4">Last of Her Kind</h1>
+    <div id="ts3bar"></div>
+    <div class="container">
+        <h1 class="display-1">Last of Her Kind</h1>
+        <h1 class="display-4">Family Tree</h1>
+        <p>Here’s the family tree for the relevant Sims for <em>Last of Her Kind</em>, as of the end of Chapter 3:</p>
+        <img src="/images/generic/familytrees/lastofherkind/chapter3.png">
+    </div>
   </body>
 </html>
