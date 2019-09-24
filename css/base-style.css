@@ -1,0 +1,32 @@
+body {
+    background-color: midnightblue;
+    color: yellow;
+  }
+  
+  a:link {
+    color: orange;
+  }
+  
+  a:visited {
+    color: greenyellow;
+  }
+  
+  a:active {
+    color: cyan;
+  }
+  
+  a.navbarlink {
+    color: white;
+  }
+  
+  .alert {
+    color: red;
+  }
+  
+  .darkdusk_night {
+    color: lavender;
+  }
+
+  .navlogo {
+    height: 40px;
+  }
